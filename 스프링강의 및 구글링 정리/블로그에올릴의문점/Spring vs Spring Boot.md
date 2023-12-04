@@ -1,3 +1,0 @@
-# Spring vs Spring Boot
-
-
